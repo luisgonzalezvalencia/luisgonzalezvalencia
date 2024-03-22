@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Luis Gonzalez, i'm a software developer with over 10 years of experience producing and updating SaaS systems, optimizing structures and processes to accomplish customer targets and promote company loyalty.
+I'm Luis Gonzalez, a software developer with over 10 years of experience producing and updating SaaS systems, optimizing structures and processes to accomplish customer targets and promote company loyalty.
 
 - 🔭 I’m currently working on LogicCadence as a Full-Stack developer.
 - 🌱 I'm a Information System Analyst and I'm currently finishing the 5th year of Information Systems Engineering at UCP.
