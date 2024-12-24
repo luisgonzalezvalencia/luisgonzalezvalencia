@@ -2,7 +2,7 @@
 I'm Luis Gonzalez, a software developer with over 10 years of experience. My gig? Crafting and tweaking SaaS systems to make customers happy and keep companies thriving.
 
 - 🔭 Right now, I'm diving deep into coding at LogicCadence as a Full-Stack developer.
-- 🌱 I'm a Information System Analyst and I'm currently finishing the 5th year of Information Systems Engineering at UCP.
+- 🌱 I'm a Information System Engineer.
 
 I started programming at 19 years old and since there I never stop. I love discovering, testing and working with new technologies and programming languages and I try to stay up to date.
 
