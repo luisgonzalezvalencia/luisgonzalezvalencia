@@ -12,7 +12,7 @@ After 5 years I started working with a partner as a freelancer for many clients 
 Then a new opportunity arises with a company from Costa Rica. In that company I worked mainly with .C#, VueJs, Ionic Framework and Angular developing mobile applications. 
 One of my proudest achievements was setting up CI/CD to automate our work. (https://wolksoftcr.com)
 
-After 3 years there, my journey took me to where I am, working mostly with Angular and Django (Python) as a full-stack developer. (https://provisionsgroup.com , https://logiccadence.com)
+After 3 years there, my journey took me to where I am, working mostly with Angular and Django (Python) as a Senior Software Engineer. (https://provisionsgroup.com , https://logiccadence.com)
 
 
 - 📫 How to reach me: https://www.linkedin.com/in/luis-arturo-gonzalez-valencia/
