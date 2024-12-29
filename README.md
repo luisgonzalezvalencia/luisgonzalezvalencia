@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Luis Gonzalez, a software developer with over 10 years of experience. My gig? Crafting and tweaking SaaS systems to make customers happy and keep companies thriving.
+I'm Luis Gonzalez, a Software Developer and Information Systems Engineer with over 10 years of experience. My gig? Crafting and tweaking SaaS systems to make customers happy and keep companies thriving.
 
 - 🔭 Right now, I'm diving deep into coding at Provisions Group (former LogicCadence) as a Senior Software Engineer.
 - 🌱 I'm a Information System Engineer.
