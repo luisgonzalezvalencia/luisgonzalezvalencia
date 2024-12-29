@@ -10,7 +10,7 @@ My journey began with the basics like PHP, HTML, CSS, and MySQL, creating websit
 
 After 5 years I started working with a partner as a freelancer for many clients and different needs and we founded VencejosLab. (www.vencejoslab.com)
 Then a new opportunity arises with a company from Costa Rica. In that company I worked mainly with .C#, VueJs, Ionic Framework and Angular developing mobile applications. 
-One of my proudest achievements was setting up CI/CD to automate our work. (https://wolksoftcr.com)
+One of my proudest achievements was setting up CI/CD on Azure to automate our work. (https://wolksoftcr.com)
 
 After 3 years there, my journey took me to where I am, working mostly with Angular and Django (Python) as a Senior Software Engineer. (https://provisionsgroup.com , https://logiccadence.com)
 
