@@ -8,7 +8,7 @@ I'm **Luis Gonzalez**, a Software Developer and Information Systems Engineer who
 - 🧭 I'm also acting as the **tech lead** there: I plan and assign work, review and approve PRs, and still ship features, solve problems and dig into the code every day.
 - 👥 I helped onboard and ramp up a **new team of 3 developers and 1 designer**, guiding them through the business logic and showing them where every repo and feature lives.
 - 🤝 On the side, I collaborate on [**Facturia**](https://facturia.sudata.co/), an AI platform that reads supplier invoices and sends the data to Excel or ERPs, plus small hobby tools like [**Fenómeno Niño – Seguimiento**](https://fenomeno-nino-seguimiento.vercel.app/).
-- 🤖 I use AI in my daily workflow with **Claude Code** and **Antigravity**.
+- 🤖 I keep up with AI-assisted development, exploring tools like **Claude Code** and **Antigravity**.
 - 🌐 Portfolio (work in progress): [luisgonzalezvalencia.github.io](https://luisgonzalezvalencia.github.io/)
 
 ## 🛠️ Tech Stack
@@ -37,13 +37,6 @@ I started programming at 19 and haven't stopped since. I love discovering and te
 
 Football, the gym, and the occasional gaming night with friends, when I manage to get the group together 🎮
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=luisgonzalezvalencia&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisgonzalezvalencia&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
-
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-arturo-gonzalez-valencia/)
@@ -55,29 +48,29 @@ Football, the gym, and the occasional gaming night with friends, when I manage t
 <details>
 <summary><h2>🇦🇷 Español</h2></summary>
 
-Soy **Luis Gonzalez**, desarrollador de software e Ingeniero en Sistemas de Información, y escribo código hace **17 años**. ¿Mi trabajo? Construir y mejorar sistemas SaaS que dejan contentos a los clientes y hacen crecer a las empresas.
+Soy **Luis Gonzalez**, desarrollador de software e Ingeniero en Sistemas de Información. Hace más o menos **17 años** que programo y actualmente lo mío son los sistemas SaaS: crearlos, mejorarlos y hacer que funcionen bien para los clientes y para el negocio.
 
-- 🔭 Soy **Senior Software Engineer** en [Provisions Group](https://provisionsgroup.com) (ex [LogicCadence](https://logiccadence.com)) y trabajo para **[ClassGather](https://classgather.com)**, una plataforma de contenido digital K-12 que usan miles de estudiantes, docentes y administradores de escuelas, distritos, editoriales y organismos estatales.
-- 🧭 Ahí cumplo un rol de **tech lead**: planifico y asigno tareas, reviso y apruebo PRs, y sigo desarrollando features, resolviendo problemas y metiéndome en el código todos los días.
-- 👥 Ayudé a formar un **equipo nuevo de 3 desarrolladores y 1 diseñador**, guiándolos en la lógica de negocio y mostrándoles dónde vive cada repo y cada funcionalidad.
-- 🤝 Además colaboro en [**Facturia**](https://facturia.sudata.co/), una plataforma con IA que lee facturas de proveedores y envía los datos a Excel o a un ERP, y en herramientas hobby como [**Fenómeno Niño – Seguimiento**](https://fenomeno-nino-seguimiento.vercel.app/).
-- 🤖 Uso IA en mi día a día con **Claude Code** y **Antigravity**.
-- 🌐 Portfolio (en construcción): [luisgonzalezvalencia.github.io](https://luisgonzalezvalencia.github.io/)
+- 🔭 Trabajo como **Senior Software Engineer** en [Provisions Group](https://provisionsgroup.com) (antes [LogicCadence](https://logiccadence.com)), en el proyecto de **[ClassGather](https://classgather.com)**: una plataforma educativa K-12 que usan a diario miles de alumnos, docentes y administradores de escuelas, distritos, editoriales y en diferentes estados.
+- 🧭 Hoy cumplo un rol más de **tech lead**: organizo y reparto las tareas del equipo y reviso los PRs, sin dejar de programar, resolver problemas y meterme en el código.
+- 👥 Ayudé a armar un **equipo nuevo de 3 devs y 1 diseñador**: los acompañé con la lógica de negocio y les mostré cómo está organizado todo, qué hay en cada repo y dónde vive cada funcionalidad.
+- 🤝 Por fuera colaboro con [**Facturia**](https://facturia.sudata.co/), una herramienta con IA que lee facturas de proveedores y pasa los datos a Excel o al ERP, y me doy algunos gustos con proyectos chicos como [**Fenómeno Niño – Seguimiento**](https://fenomeno-nino-seguimiento.vercel.app/).
+- 🤖 Sigo de cerca todo lo que es desarrollo con IA y uso herramientas como **Claude Code** y **Antigravity**.
+- 🌐 Mi portfolio (todavía en obra): [luisgonzalezvalencia.github.io](https://luisgonzalezvalencia.github.io/)
 
-### 🚀 Mi recorrido
+### 🚀 Cómo llegué hasta acá
 
-Empecé a programar a los 19 y nunca paré. Me encanta descubrir y probar tecnologías y lenguajes nuevos, y trato de mantenerme actualizado.
+Arranqué a programar a los 19 y no paré más. Me encanta probar tecnologías y lenguajes nuevos y trato de estar siempre actualizado.
 
-**🌱 Los inicios:** PHP, HTML, CSS y MySQL, haciendo sitios web y experimentando. Después conocí **CodeIgniter**, mi primer framework, con el que desarrollé el sitio y el blog de una universidad. En ese puesto aprendí **SQL Server, .NET y C#**, y trabajé con **Azure** para desplegar sistemas y mejorar la infraestructura del departamento de Educación Digital de la [UCP](https://www.ucp.edu.ar).
+**🌱 Los comienzos:** PHP, HTML, CSS y MySQL, armando páginas web y probando cosas. Después llegó **CodeIgniter**, mi primer framework, con el que hice el sitio y el blog de una universidad. Ahí aprendí **SQL Server, .NET y C#**, y empecé con **Azure**, desplegando sistemas y mejorando la infraestructura del área de Educación Digital de la [UCP](https://www.ucp.edu.ar).
 
-**🐦 VencejosLab:** Después de 5 años fundé [VencejosLab](https://www.vencejoslab.com) junto a un socio para desarrollar software para clientes con todo tipo de necesidades. Ya no estoy a cargo, pero colaboro en algún proyecto cada tanto.
+**🐦 VencejosLab:** Cinco años después me largué como freelance con un socio y terminamos fundando [VencejosLab](https://www.vencejoslab.com), donde hicimos proyectos para clientes de todo tipo. Ya no lo manejo yo, pero cada tanto me sumo a algún proyecto.
 
-**🇨🇷 WolkSoft (Costa Rica):** Durante 3 años desarrollé apps móviles con **C#, Vue.js, Ionic y Angular**. Uno de mis logros más importantes fue implementar **CI/CD en Azure** para automatizar el trabajo del equipo.
+**🇨🇷 [WolkSoft](https://wolksoftcr.com) (Costa Rica):** Tres años haciendo apps móviles con **C#, Vue.js, Ionic y Angular**. De lo que más orgulloso estoy: haber armado el **CI/CD en Azure** que nos automatizó gran parte del trabajo.
 
-**🏢 Provisions Group (hoy):** Trabajo full-stack con **Angular, TypeScript, Python/Django y AWS Lambda**, y crecí hacia un rol de tech lead. También sigo colaborando en proyectos con **.NET Core, Vue.js y PHP**.
+**🏢 Provisions Group (hoy):** Full-stack con **Angular, TypeScript, Python/Django y AWS Lambda**, y cada vez más metido en el rol de tech lead. En paralelo sigo colaborando en proyectos con **.NET Core, Vue.js y PHP**.
 
-### ⚽ Fuera del teclado
+### ⚽ Cuando no estoy programando
 
-Fútbol, gimnasio y alguna noche de videojuegos con amigos, cuando logro juntar al grupo 🎮
+Fútbol, gimnasio y, cuando se puede juntar a los amigos, alguna partida de videojuegos 🎮
 
 </details>
